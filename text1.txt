@@ -1,1 +1,2 @@
 New line in text1 
+Second line text1

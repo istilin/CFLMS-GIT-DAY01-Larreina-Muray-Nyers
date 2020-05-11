@@ -1,1 +1,2 @@
 New line in text5
+Second line in text5
